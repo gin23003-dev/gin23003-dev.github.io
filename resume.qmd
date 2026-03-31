@@ -1,55 +1,48 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Brooke Saunders CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Brooke Saunders
+Accountant, BYUI Student, Bookkeeper.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
+<a href="brookes@gmail.com">brookes@gmail.com</a>
+| <a href="http://en.wikipedia.org/wiki/Brooke_Saunders">My wikipedia page</a>
+<!-- | <a href="https://gin23003-dev.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
 | <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying at BYUI, working as a bookkeeper, and looking for a job in the field of accounting.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Accounting, bookkeeping, tax preparation, and financial analysis.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Economics, finance, and data analysis.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019-2023`
+__Ridgeline High School.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2025 - now`
+__BYUI-Idaho, Rexburg__
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2022`
+BYUI-Idaho, Dean's List
 
-Associate, *French Academy of Science*, Paris, France
 
 
 
@@ -59,33 +52,29 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+2020 
+Sweeper, Utah
 
-- Warden
-- Minted coins
+2021
+Caterer, Utah
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+2022 - 2023
+Manager, Utah
+
+2025 - 2026
+Bookkeeper, Idaho
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2026 -->
