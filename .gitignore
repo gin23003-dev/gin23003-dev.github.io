@@ -5,3 +5,5 @@
 /_site/*.css
 /.quarto/
 **/*.quarto_ipynb
+.Rproj.user
+.positai
